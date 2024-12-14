@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in VBScript related to the `IsEmpty` function and its interaction with function parameters.  The `bug.vbs` file shows the problematic code.  The `bugSolution.vbs` file offers a corrected version using a more robust approach.
